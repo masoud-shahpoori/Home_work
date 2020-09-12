@@ -21,7 +21,7 @@ function App() {
 
 
 </Switch>
-<Route component={MainFooter}/>
+{/* <Route component={MainFooter}/> */}
 </>
 
   );
